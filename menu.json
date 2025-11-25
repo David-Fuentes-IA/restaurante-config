@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Guacamole",
+    "descripcion": "Aguacate fresco con pico de gallo y totopos (Precio actualizado)",
+    "precio": 130.00,
+    "categoria_id": 1,
+    "esta_disponible": true,
+    "url_imagen": "https://example.com/guacamole.jpg"
+  },
+  {
+    "nombre": "Nuevo Platillo Especial",
+    "descripcion": "Creación del chef para probar GitOps",
+    "precio": 250.00,
+    "categoria_id": 2,
+    "esta_disponible": true,
+    "url_imagen": "https://example.com/especial.jpg"
+  }
+]
