@@ -8,7 +8,7 @@
     "url_imagen": "https://example.com/guacamole.jpg"
   },
   {
-    "nombre": "Birria",
+    "nombre": "Nuevo Platillo Especial",
     "descripcion": "Creación del chef para probar GitOps",
     "precio": 600.00,
     "categoria_id": 2,
