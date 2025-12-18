@@ -10,7 +10,7 @@
   {
     "nombre": "Nuevo Platillo Especial",
     "descripcion": "Creación del chef para probar GitOps",
-    "precio": 200.00,
+    "precio": 140.00,
     "categoria_id": 2,
     "esta_disponible": true,
     "url_imagen": "https://example.com/especial.jpg"
